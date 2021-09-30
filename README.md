@@ -8,6 +8,10 @@ Setup, Build, Publish, and Deploy (cloudrun-deploy):
 - push to gcr.io container registry
 - deploy to Google Cloud Run
 
+Telegram Notification (telegram message):
+
+- Send a Telegram message to @nodejsapibot
+
 Live endpoint available at: [https://app-6k5xfijbqq-uc.a.run.app/](https://app-6k5xfijbqq-uc.a.run.app/)
 
 TOTO generator: [https://app-6k5xfijbqq-uc.a.run.app/toto](https://app-6k5xfijbqq-uc.a.run.app/toto)
