@@ -1,8 +1,8 @@
-# TOTO/4D Generator API – NodeJS
+# Lottery Generator API – NodeJS
 
 CI/CD pipeline implemented using GitHub Actions:
 
-cloudrun-deploy:
+Setup, Build, Publish, and Deploy (cloudrun-deploy):
 
 - create docker container
 - push to gcr.io container registry
