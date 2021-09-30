@@ -5,7 +5,7 @@ app.listen(8080, () => {
 });
 
 app.get("/", (req, res) => {
- res.send(["Hello! This is version 0.16"]);
+ res.send(["Hello! This is Kent"]);
 });
 
 app.get("/api", (req, res, next) => {
