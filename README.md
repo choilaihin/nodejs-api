@@ -10,7 +10,7 @@ Setup, Build, Publish, and Deploy (cloudrun-deploy):
 
 Telegram Notification (telegram message):
 
-- Send a Telegram message to nodejsapibot private group (join via [https://t.me/joinchat/bwibE9jnGpNmNjZl]https://t.me/joinchat/bwibE9jnGpNmNjZl)
+- Send a Telegram message to nodejsapibot private group about the event (join via [https://t.me/joinchat/bwibE9jnGpNmNjZl]https://t.me/joinchat/bwibE9jnGpNmNjZl)
 
 Live endpoint available at: [https://app-6k5xfijbqq-uc.a.run.app/](https://app-6k5xfijbqq-uc.a.run.app/)
 
