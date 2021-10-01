@@ -9,6 +9,9 @@ CI/CD pipeline implemented using GitHub Actions:
 - Create a private group on Telegram, add the above bot to the group, and then obtain the chat ID: [https://github.com/GabrielRF/telegram-id#web-channel-id](https://github.com/GabrielRF/telegram-id#web-channel-id)
 - Use the workflow by appleboy: [https://github.com/appleboy/telegram-action.git](https://github.com/appleboy/telegram-action.git)
 
+This shows the Telegram notification received when a push/pull request is triggered:  
+<img src="images/TelegramNotification.jpeg" width="300">
+
 2. Setup, Build, Publish, and Deploy (cloudrun-deploy):
 
 - Setup Google Cloud command-line tool (CLI)
