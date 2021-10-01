@@ -1,4 +1,4 @@
-name: telegram message
+name: telegram-message
 
 on:
   [push, pull_request]
