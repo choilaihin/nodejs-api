@@ -1,4 +1,4 @@
-# Lottery Generator API – NodeJS
+# Lottery Number Generator API – NodeJS
 
 CI/CD pipeline implemented using GitHub Actions:
 
